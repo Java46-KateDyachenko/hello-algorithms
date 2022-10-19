@@ -257,4 +257,10 @@ public class LinkedList<T> implements List<T> {
 	     //no cycles allowed
 	}
 
+	@Override
+	public void sort(Object object) {
+		// TODO Auto-generated method stub
+		
+	}
+
 }

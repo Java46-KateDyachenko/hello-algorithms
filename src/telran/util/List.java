@@ -43,4 +43,6 @@ public interface List<T> extends Collection<T> {
 		return indexOf(pattern) >= 0;
 	}
 
+	void sort(Object object);
+
 }
